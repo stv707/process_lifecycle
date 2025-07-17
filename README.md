@@ -88,7 +88,7 @@ After the demo finishes, all processes are cleaned up. You can run it multiple t
 
 ## 📚 Reference
 
-![alt text](image.png)
+![alt text](<process_diagram.png>)
 
 Diagram based on standard Linux process lifecycle states:
 - New → Runnable → Running → Sleep/Stop/Zombie/Exit
